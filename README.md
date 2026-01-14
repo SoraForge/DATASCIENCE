@@ -74,7 +74,7 @@ This repo includes a wide range of data science topics such as:
 
 ---
 
-## ▶️ How to Use This Repository  
+## How to Use This Repository  
 You can explore or run any project by following these steps:
 
 ### 1. Clone the repository:
